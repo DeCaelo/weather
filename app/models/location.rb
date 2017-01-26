@@ -1,3 +1,3 @@
 class Location < ApplicationRecord
-  has_many :recording
+  has_many :recordings
 end
